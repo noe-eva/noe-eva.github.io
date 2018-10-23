@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Publications
+permalink: /Publications/
 ---
 
-
-## Publications
 
 **Aepli, Noëmi**; Clematide, Simon, _Parsing Approaches for Swiss German_, Proceedings of [SwissText 2018](https://www.swisstext.org/), 13.6.2018. ([PDF](http://ceur-ws.org/Vol-2226/paper1.pdf))
 
