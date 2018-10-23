@@ -17,10 +17,11 @@ title: Noëmi Aepli
 author: Noëmi Aepli
 email: noemi.aepli@uzh.ch
 description: > # this means to ignore newlines until "baseurl:" 
+  PhD student in Computational Linguistics, passionate about NLP for Swiss German Dialects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://noe-eva.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  noe-eva
-linkedin_username: noëmi-aepli
+linkedin_username: noëmi-aepli-441030a0
 twitter_username: hermionoe
 
 # Build settings
