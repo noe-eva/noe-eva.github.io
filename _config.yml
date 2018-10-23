@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Noëmi Aepli
 author: Noëmi Aepli
-email: naepli@ifi.uzh.ch
-description: > # this means to ignore newlines until "baseurl:"
+email: noemi.aepli@uzh.ch
+description: > # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://noe-eva.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  noe-eva
+twitter_username: hermionoe
 
 # Build settings
 markdown: kramdown
