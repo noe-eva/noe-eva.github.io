@@ -17,13 +17,6 @@ I've been passionate about Swiss German Natural Language Processing since 2012 w
 
 
 
-[LinkedIn](https://www.linkedin.com/in/no%C3%ABmi-aepli-441030a0/)
-
-[Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de)
-
-
-
-
 ### Research Interests
 
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
