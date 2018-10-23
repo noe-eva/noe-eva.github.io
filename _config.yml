@@ -23,7 +23,7 @@ github_username:  noe-eva
 
 # Build settings
 markdown: kramdown
-theme: Cayman
+theme: minimal
 plugins_dir:
   - youtube
 gems:
