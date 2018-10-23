@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Noëmi Aepli
 
 - [Email](mailto:noemi.aepli@uzh.ch)
 - [Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de)
