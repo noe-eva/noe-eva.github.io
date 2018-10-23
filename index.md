@@ -17,10 +17,14 @@ I've been passionate about Swiss German Natural Language Processing since 2012 w
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
 
-
 ### Publications
 
-A list of my publications can be found [here](/research/) and on [Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de)
+A list of my publications is [here](/research/) and on [Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de).
+
+### Projects
+
+- [NOAH's Corpus: Part-of-Speech Tagging for Swiss German](https://noe-eva.github.io/NOAH-Corpus/)
+- [Universal Dependency Parsing for Swiss German](https://noe-eva.github.io/SwissGermanUD/)
 
 ### Curriculum Vitae
 
