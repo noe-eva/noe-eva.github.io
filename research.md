@@ -4,6 +4,7 @@ title: Publications
 permalink: /Publications/
 ---
 
+Ellendorff, Tilia; Furrer, Lenz; Colic, Nicola; **Aepli, Noëmi"**; Rinaldi, Fabio, _Approaching SMM4H with Merged Models and Multi-task Learning_, Proceedings of the Fourth Social Media Mining for Health Applications (# SMM4H) Workshop & Shared Task, 2019. ([PDF](https://www.aclweb.org/anthology/W19-3208))
 
 **Aepli, Noëmi**; Clematide, Simon, _Parsing Approaches for Swiss German_, Proceedings of [SwissText 2018](https://www.swisstext.org/), 13.6.2018. ([PDF](http://ceur-ws.org/Vol-2226/paper1.pdf))
 
