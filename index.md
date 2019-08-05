@@ -18,7 +18,7 @@ I've been passionate about Swiss German Natural Language Processing since 2012 w
 
 ### Publications
 
-A list of my publications is [here](/publications/) and on [Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de).
+A list of my publications is [here](/Publications/) and on [Google Scholar](https://scholar.google.ch/citations?user=ZMIlpKUAAAAJ&hl=de).
 
 ### Projects
 
