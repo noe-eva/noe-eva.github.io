@@ -8,7 +8,7 @@ layout: page
 
 I'm Noëmi Aepli, a Swiss PhD student in the field of Natural Language Processing. Currently I'm based in Zurich, at the [Institute of Computational Linguistics](www.cl.uzh.ch) at the University of Zurich.
 
-I've been passionate about Swiss German Natural Language Processing since 2012 when I started a project with a fellow student: [NOAH's Corpus: Swiss German Part-of-Speech Tagging](https://noe-eva.github.io/NOAH-Corpus/) and have been involved in many Swiss German NLP projects since. Furthermore, I wrote my Master's Thesis in the field: ["Parsing Approaches for Swiss German"](https://noe-eva.github.io/SwissGermanUD/) ([PDF](https://www.cl.uzh.ch/dam/jcr:cdad4255-ddd4-4071-a706-491e75085339/aepli_noemi_1990.pdf)) and started the process of adding my manually created parse trees to the [Universal Dependency Treebanks](https://universaldependencies.org/).
+I've been passionate about Swiss German Natural Language Processing since 2012 when I started a project with a fellow student: [NOAH's Corpus: Swiss German Part-of-Speech Tagging](https://noe-eva.github.io/NOAH-Corpus/) and have been involved in many Swiss German NLP projects since. Furthermore, I wrote my Master's Thesis in the field: ["Parsing Approaches for Swiss German"](https://noe-eva.github.io/SwissGermanUD/) ([PDF](https://www.cl.uzh.ch/dam/jcr:cdad4255-ddd4-4071-a706-491e75085339/aepli_noemi_1990.pdf)). Since November 2019, my manually created parse trees are part of the [Universal Dependency Treebanks](https://universaldependencies.org/) version 2.5: [UD_Swiss_German-UZH](https://github.com/UniversalDependencies/UD_Swiss_German-UZH).
 
 ### Research Interests
 
