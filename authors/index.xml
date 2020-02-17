@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Noëmi Aepli</title>
+    <link>https://noe-eva.github.io/authors/</link>
+      <atom:link href="https://noe-eva.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://noe-eva.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Nora Hollenstein</title>
+      <link>https://noe-eva.github.io/authors/nora-hollenstein/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/authors/nora-hollenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noëmi Aepli</title>
+      <link>https://noe-eva.github.io/authors/noemi-aepli/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/authors/noemi-aepli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruprecht von Waldenfels</title>
+      <link>https://noe-eva.github.io/authors/ruprecht-von-waldenfels/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/authors/ruprecht-von-waldenfels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanja Samardzic</title>
+      <link>https://noe-eva.github.io/authors/tanja-samardzic/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/authors/tanja-samardzic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://noe-eva.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student at the 
+&lt;a href=&#34;www.cl.uzh.ch&#34;&gt;Institute of Computational Linguistics&lt;/a&gt; working on my SNSF funded project &lt;em&gt;Natural Language Processing for Low-Resource Language Variations&lt;/em&gt; (
+&lt;a href=&#34;https://www.cl.uzh.ch/en/texttechnologies/research/Low-Resource-NLP/LORELAI.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LORELAI&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very much fascinated by the variations of languages and the challenges they pose for NLP.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nora Hollenstein | Noëmi Aepli</title>
+    <link>https://noe-eva.github.io/authors/nora-hollenstein/</link>
+      <atom:link href="https://noe-eva.github.io/authors/nora-hollenstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nora Hollenstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nora Hollenstein</title>
+      <link>https://noe-eva.github.io/authors/nora-hollenstein/</link>
+    </image>
+    
+    <item>
+      <title>A Resource for Natural Language Processing of Swiss German Dialects</title>
+      <link>https://noe-eva.github.io/publication/noah2015/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/publication/noah2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
