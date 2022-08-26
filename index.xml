@@ -52,7 +52,15 @@
       <guid>https://noe-eva.github.io/project/noahs-corpus/</guid>
       <description></description>
     </item>
-    
+
+   <item>
+      <title>LORELAI</title>
+      <link>https://noe-eva.github.io/project/itdi/</link>
+      <pubDate>Mon, 01 April 2020 00:00:00 +0000</pubDate>
+      <guid>https://noe-eva.github.io/project/itdi/</guid>
+      <description></description>
+    </item>
+  
     <item>
       <title>Swiss German UD</title>
       <link>https://noe-eva.github.io/project/swiss-german-ud/</link>
